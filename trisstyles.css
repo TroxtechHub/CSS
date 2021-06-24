@@ -1,0 +1,41 @@
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-family: "Nunito Sans", Nunito, sans-serif;
+}
+
+
+
+
+.phonenumber {
+  position: absolute;
+  top: 36%;
+  left: 52.5%;
+  font-size:20px
+}
+
+.email {
+  position: absolute;
+  top: 72%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  font-size:20px
+}
+
+.cellnum {
+  position: absolute;
+  top: 55%;
+  left: 58%;
+  transform: translate(-50%, -50%);
+  font-size:20px
+}
+
+.ribbonname {
+  position: absolute;
+  top: 13%;
+  left:42.5%;
+
+  font-size:32px
+}
